@@ -124,10 +124,8 @@ height: 170px;}
   text-decoration: none;}
 
 #logo h1 a .logo_colour
-{ color: #6a4e01;}
-
-/* #logo a:hover .logo_colour
-{ color: #FFF;} */ Not Needed
+{ color: #6a4e01;
+font-size:1.10em;}
 
 #menubar
 { height: 24px;
