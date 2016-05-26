@@ -76,8 +76,7 @@ ul
 { margin: 2px 0 22px 17px;}
 
 ul li
-{ list-style-type: circle;
-  margin: 0 0 6px 0; 
+{ margin: 0 0 6px 0; 
   padding: 0 0 4px 5px;}
 
 ol
@@ -197,6 +196,18 @@ ul#menu li a:hover
 { text-align: left;
   width: 613px;
   padding: 0;}
+
+#content .employeesroster {
+	list-style-type:none; 
+	margin-left:25px; 
+	-webkit-columns: 100px 2; 
+	-moz-columns: 100px 2; 
+	columns: 100px 2;
+}
+
+#content .employeesroster li {
+	padding-top:20px;
+}
 
 #footer
 { width: 916px;
